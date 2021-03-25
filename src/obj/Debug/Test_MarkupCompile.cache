@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Git\Test\src\Test\obj\Debug\
+C:\Git\Test\src\obj\Debug\
 Test
 none
 false
@@ -16,5 +16,5 @@ DEBUG;TRACE
 131726951844
 UserControl1.xaml;
 
-True
+False
 
